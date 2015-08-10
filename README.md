@@ -3,19 +3,22 @@ Chatroom simulation via Markov chain implemented in Java.
 
 Example of chat messages generated with [this chatlog](https://github.com/dekuNukem/SGDQ2015_Twitch_Chatlog):
 ```
-SqueakRed SqueakYellow THERE WE HAVE 1/3 done by the *** *** Kreygasm WOULDN'T DOWNLOA 
-Toasty! Kappa / 
-ammmd go fast no1 will be a Splatterhouse Wanpak 
-SUP? 
-DONGERY KONG PogChamp  enoug 
-BR. kkkkkk 
-demolish that par 
-Braindead chat is not Playing? : 
-BUDDEN! WutFac 
-lezzdothis 
-Tougher than my final fantasy Kappa / 
-RUUUN!!! 
-Kotacco? The reason he says YES. < 
-*shoutout
+"Overconfidence is the guy should donate so easy scrub 4Head //
+DUDESCENDRE
+IWATABOY BibleThump
+Cranky! Take it hasn't talked chat and emotes. I prefer if you can die Tage
+MORE ADS ON MY TRAP WutFace
+selfeeeee
+#yeaWhatEver
+donny Werster should probably more...
+sPeCific
+BILS
+//\/\\ Kappa ? Kappa
+RarePls
+Telltale? You know...I remember that is asleep every time
+recent. It's simple TCH PogChamp )/ deIlluminati
+@Trollbear666, of Kreygasm
+Cables hype 4Head
+KNOW!!!
 ```
 
